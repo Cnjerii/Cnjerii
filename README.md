@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cnjerii
+- 👋 Hi, I’m Christine Njeri
 - 👀 I’m interested in ...systems security and forensics
 - 📫 How to reach me...christinenjeri162@gmail.com
 
