@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Cnjerii
 - 👀 I’m interested in ...systems security and forensics
-- 🌱 I’m currently learning ...python and c
-- 💞️ I’m looking to collaborate on ...projects i can learn and earn from.
 - 📫 How to reach me...christinenjeri162@gmail.com
 
 <!---
